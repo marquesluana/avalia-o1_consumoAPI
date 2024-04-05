@@ -24,19 +24,19 @@ py conversormoedas.py
 
 Informe os valores desejados. Por exemplo:
 
-  O código exibirá: Digite o valor a ser convertido:
+      O código exibirá: Digite o valor a ser convertido:
   
-  Você informa: 100
-  
-
-  O código exibirá: Digite a moeda de origem (ex: BRL, USD, EUR):
-  
-  Você informa: BRL
+      Você informa: 100
   
 
-  O código exibirá: Digite a moeda de destino (ex: BRL, USD, EUR):
+      O código exibirá: Digite a moeda de origem (ex: BRL, USD, EUR):
   
-  Você informa: usd
+      Você informa: BRL
+  
+
+      O código exibirá: Digite a moeda de destino (ex: BRL, USD, EUR):
+  
+      Você informa: usd
   
 
 Isso converterá 100 reais brasileiros para dólares americanos.
@@ -44,4 +44,4 @@ Isso converterá 100 reais brasileiros para dólares americanos.
 
 E dado essas informações o código retornará:
 
-  O valor informado (100.0 BRL) convertido fica: 19.7 USD
+      O valor informado (100.0 BRL) convertido fica: 19.7 USD
