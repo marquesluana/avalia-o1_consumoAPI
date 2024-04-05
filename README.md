@@ -20,7 +20,7 @@ Conversor de moedas simples desenvolvido em python para demonstrar o consumo de 
 ## Uso
 - Execute o script conversormoedas.py:
 
-py conversormoedas.py
+        py conversormoedas.py
 
 Informe os valores desejados. Por exemplo:
 
