@@ -22,7 +22,7 @@ Conversor de moedas simples desenvolvido em python para demonstrar o consumo de 
 
         py conversormoedas.py
 
-Informe os valores desejados. Por exemplo:
+- Informe os valores desejados. Por exemplo:
 
       O código exibirá: Digite o valor a ser convertido:
   
