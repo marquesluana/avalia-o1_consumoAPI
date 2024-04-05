@@ -7,15 +7,15 @@ Conversor de moedas simples desenvolvido em python para demonstrar o consumo de 
 
 - Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/marquesluana/avaliacao1_consumoAPI.git
+    git clone https://github.com/marquesluana/avaliacao1_consumoAPI.git
 
 - Navegue até o diretório do projeto:
 
-cd... cd... cd avaliacao1_consumoAPI
+    cd... cd... cd avaliacao1_consumoAPI
 
 - Instale as dependências necessárias usando pip:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Uso
 - Execute o script conversormoedas.py:
